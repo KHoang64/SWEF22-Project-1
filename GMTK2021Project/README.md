@@ -1,35 +1,25 @@
+Playable build found here: https://khoang99.itch.io/bullet-time-donut-break
 
-<p align="center">
-    <img width="400px" src="http://mixandjam.com/wp-content/uploads/2019/11/git.png">    
-</p>
+A conjunction of two different things I was looking into in the Summer of 2021
 
-# Superhot's Bullet Time | Mix and Jam [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/PwCzrBX) <a href="https://patreon.com/mixandjam"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fmixandjam" /></a>
+1. Working in Blender3d to model customizable 3d meshes. 
 
-This is the official respository for the episode #18 of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixAndJam)!
+2. Working with unity  to create abilities that affects the player and environment features.
 
-## Getting Started
+After working a considerably amount of time on finishing a introductory blender tutorial I thought about ways I can export it the model with its materials into Unity. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Then for goofs I thought about the idea of how I can show it to my friends, where I would I first show  them a rendered model of a donut, picking it up , throwing it  and "breaking" all those hard hours of works .
 
-### Prerequisites
+I then found a way to cut up the mesh in blender and implement a system that "simulates" the donut breaking. I had stumbled across the amazing Mix and Jam's video on trying to recreate Superhot and thought it would be a suitable system that my breakable donut can be apart of. 
 
--  Unity ver. 2019.2 or higher
+### Credits to: 
 
-### Running the project
+>Mix and Jam for showing the steps to recreate the slow motion and other features found in Superhot
+https://youtu.be/T6VfWfqbgVs 
 
-After cloning or downloading the repository, open the root project folder in unity and press the Play button.
 
-You can see a running demo of the project in [this video](https://youtu.be/T6VfWfqbgVs).
+>Unity Ability System to introduce implementation of different button mapped abilities
+https://youtu.be/Jv9jGyIWelU
 
-## Built With
-
-* [DOTween](http://dotween.demigiant.com/) - DOTween is a fast, efficient, fully type-safe object-oriented animation engine for Unity, optimized for C# users, free and open-source, with tons of advanced features
-
-## Authors
-
-* **André Cardoso** - [Github](https://github.com/andremc)
-<br>[![Twitter Follow](https://img.shields.io/twitter/follow/andre_mc.svg?style=social)](https://twitter.com/andre_mc)  
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+> The go-to Blender donut tutorial for beginners
+https://youtu.be/nIoXOplUvAw
