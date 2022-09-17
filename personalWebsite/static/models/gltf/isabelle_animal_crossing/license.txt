@@ -1,0 +1,11 @@
+Model Information:
+* title:	Isabelle (Animal Crossing)
+* source:	https://sketchfab.com/3d-models/isabelle-animal-crossing-9b2774218b8e468aa8c37cdb823bdf7c
+* author:	Chloe Garces (https://sketchfab.com/cgarces)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Isabelle (Animal Crossing)" (https://sketchfab.com/3d-models/isabelle-animal-crossing-9b2774218b8e468aa8c37cdb823bdf7c) by Chloe Garces (https://sketchfab.com/cgarces) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
