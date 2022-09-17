@@ -4,6 +4,8 @@ I thought it would be cool if I used ThreeJS so while you scroll through the web
 
 There are 5 gltf files that load so running this might take up the CPU/GPU to process however.
 
+here is a video showcasing the website: https://imgur.com/a/Fc2i8Pp  
+
 here is a demo of the website: http://kentsstuff.tiiny.site/
 
 ---
