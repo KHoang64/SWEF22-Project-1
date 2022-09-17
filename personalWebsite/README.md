@@ -1,6 +1,6 @@
-A website where I can put my portfolio.
+A website I made in mind to include my portfolio.
 
-I thought it would be cool if used ThreeJS to make it with.
+I thought it would be cool if I used ThreeJS so while you scroll through the website, there will things happening in the background.
 
 There are 5 gltf files that load so running this might take up the CPU/GPU to process however.
 
@@ -15,3 +15,5 @@ credits:
 - model for Isabelle: https://sketchfab.com/3d-models/isabelle-animal-crossing-9b2774218b8e468aa8c37cdb823bdf7c
 
 - model for Pikachu: https://sketchfab.com/3d-models/pikachu-d03a95e832d6455e9267b19aa8a360a6
+
+- song: Green Star - Super Mario Galaxy 2
